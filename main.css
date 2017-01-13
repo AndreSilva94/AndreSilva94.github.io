@@ -7,5 +7,9 @@ body{
   font-family: 'Montserrat', serif;
   background-color: #FFF;
   height: 60px;
-  margin-bottom: 0;
+  margin-bottom: 0;  
+}
+
+.navbar-header .navbar-toggle{
+  margin-top: 12px;
 }
