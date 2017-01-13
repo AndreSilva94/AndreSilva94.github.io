@@ -5,6 +5,7 @@ body{
 
 .navbar-default{
   font-family: 'Montserrat', serif;
+  font-family: 36px;
   background-color: #FFF;
   height: 60px;
   margin-bottom: 0;  
@@ -15,6 +16,7 @@ body{
 }
 
 .navbar-header .navbar-brand{
-  font-size: 40px;
+  font-size: 36px;
+  color: #FFF;
   
 }
