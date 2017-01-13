@@ -13,3 +13,8 @@ body{
 .navbar-header .navbar-toggle{
   margin-top: 12px;
 }
+
+.navbar-header .navbar-brand{
+  font-size: 40px;
+  
+}
