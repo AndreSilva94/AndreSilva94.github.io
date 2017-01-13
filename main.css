@@ -5,7 +5,7 @@ body{
 
 .navbar-default{
   font-family: 'Montserrat', serif;
-  font-family: 36px;
+  font-size: 36px;
   background-color: #FFFFFF;
   height: 60px;
   margin-bottom: 0;  
@@ -16,10 +16,11 @@ body{
 }
 
 .navbar-brand{
-  font-size: 20px;
-  font-weight: 700;
-  letter-spacing: 0.2em;
+  font-size: 18px;
+  font-weight: 700p;
   line-height: 0px;
   color: #111;
   height: 60px;
 }
+
+
