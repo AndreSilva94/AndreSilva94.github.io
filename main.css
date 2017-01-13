@@ -17,11 +17,12 @@ body{
 .navbar-header .navbar-brand{
   font-size: 36px;
   font-weight: 500;
-  letter-spacing: -0.3em;
-  line-height: 0px;
   color: #111;
   height: 60px;
   padding: 30px 10px 0px 10px;
 }
 
-
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #FFFF00;
+    color: #FFC0CB;
+}
