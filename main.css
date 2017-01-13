@@ -6,5 +6,6 @@ body{
 .navbar-default{
   font-family: 'Montserrat', serif;
   background-color: #FFF;
-  height: 80px;
+  height: 60px;
+  margin-bottom: 0;
 }
