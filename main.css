@@ -2,3 +2,9 @@ body{
   font-family: 'Quattrocento Sans', sans-serif;
   font-size: 16px;
 }
+
+.navbar-default{
+  font-family: "Arial";
+  background-color: #FFF;
+  height: 80px;
+}
