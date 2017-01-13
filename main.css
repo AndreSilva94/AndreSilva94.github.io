@@ -4,13 +4,12 @@ body{
 }
 
 .navbar-default{
-  font-family: 'Montserrat', serif;
-  background-color: #FFFFFF;
-  height: 60px;
-  margin-bottom: 0;  
+  background-color: #F8F8F8;
+  border-color: #E7E7E7;
+  
 }
 
-.navbar-header .navbar-brand{
+.navbar-default .navbar-brand{
   font-size: 36px;
   font-weight: 500;
   color: #111;
